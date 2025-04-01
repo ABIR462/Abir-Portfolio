@@ -16,7 +16,7 @@ function slideUp(element) {
     // Automatically remove splash after 3 seconds
     setTimeout(() => {
       slideUp(splash);
-    }, 5200); // 3-second delay
+    }, 3000); // 3-second delay
   };
 
 
